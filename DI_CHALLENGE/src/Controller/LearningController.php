@@ -22,7 +22,7 @@ use App\Services\Masterclass;
 class LearningController extends AbstractController
 {
     /**
-     * @Route("/learning", name="learning")
+     * @Route("/", name="learning")
      */
 
 
